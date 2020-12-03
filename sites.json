@@ -1,0 +1,50 @@
+[
+  {
+    "name": "overclockers",
+    "divsToSearch": "span.delivery_container > div.Physical",
+    "urls": [
+      "https://www.overclockers.co.uk/pc-components/graphics-cards/nvidia/geforce-rtx-3090",
+      "https://www.overclockers.co.uk/pc-components/graphics-cards/nvidia/geforce-rtx-3080",
+      "https://www.overclockers.co.uk/pc-components/graphics-cards/nvidia/geforce-rtx-3070",
+      "https://www.overclockers.co.uk/pc-components/graphics-cards/nvidia/geforce-rtx-3060-ti"
+    ]
+  },
+  {
+    "name": "scan",
+    "divsToSearch": "div.category > div.productList.list > ul.productColumns li.product > div > div.priceAvailability > div.priceWishlistBuy > div.rightColumn > div.buyButton > span > a.btn",
+    "urls": [
+      "https://www.scan.co.uk/shop/gaming/gpu-nvidia/nvidia-geforce-rtx-3090-graphics-cards",
+      "https://www.scan.co.uk/shop/gaming/gpu-nvidia/nvidia-geforce-rtx-3080-graphics-cards",
+      "https://www.scan.co.uk/shop/gaming/gpu-nvidia/nvidia-geforce-rtx-3070-graphics-cards",
+      "https://www.scan.co.uk/shop/gaming/gpu-nvidia/geforce-rtx-3060-ti-graphics-cards"
+    ]
+  },
+  {
+    "name": "ccl",
+    "divsToSearch": "div.addtobasket > a.btnAddToBasket",
+    "urls": [
+      "https://www.cclonline.com/category/430/PC-Components/Graphics-Cards/NVIDIA-Chipset-Graphics-Cards/attributeslist/1267058/",
+      "https://www.cclonline.com/category/430/PC-Components/Graphics-Cards/NVIDIA-Chipset-Graphics-Cards/attributeslist/1267057/",
+      "https://www.cclonline.com/category/430/PC-Components/Graphics-Cards/NVIDIA-Chipset-Graphics-Cards/attributeslist/1267056/",
+      "https://www.cclonline.com/category/430/PC-Components/Graphics-Cards/NVIDIA-Chipset-Graphics-Cards/attributeslist/1267059/"
+    ]
+  },
+  {
+    "name": "ebuyer",
+    "divsToSearch": "#grid-view > div.grid-item .grid-item__buttons button.js-add-to-mini-basket",
+    "urls": [
+      "https://www.ebuyer.com/store/Components/cat/Graphics-Cards-Nvidia/subcat/GeForce-RTX-3090",
+      "https://www.ebuyer.com/store/Components/cat/Graphics-Cards-Nvidia/subcat/GeForce-RTX-3080",
+      "https://www.ebuyer.com/store/Components/cat/Graphics-Cards-Nvidia/subcat/GeForce-RTX-3070",
+      "https://www.ebuyer.com/store/Components/cat/Graphics-Cards-Nvidia/subcat/GeForce-RTX-3060-Ti"
+    ]
+  },
+  {
+    "name": "currys",
+    "divsToSearch": "div.row article.product div.productPrices div.channels-availability ul.simple.prd-channels li.available",
+    "urls": [
+      "https://www.currys.co.uk/gbuk/rtx-3070/components-upgrades/graphics-cards/324_3091_30343_xx_ba00013562-bv00313849/xx-700-criteria.html",
+      "https://www.currys.co.uk/gbuk/rtx-3060-ti/components-upgrades/graphics-cards/324_3091_30343_xx_ba00013562-bv00313952/xx-criteria.html"
+    ]
+  }
+]

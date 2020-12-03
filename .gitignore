@@ -1,0 +1,5 @@
+config.json
+node_modules
+scraped
+scraped/**
+package-lock.json
